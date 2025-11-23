@@ -31,6 +31,10 @@ body {
     background-color: var(--color-primary-1);
 }
 
+div.video {
+    margin-bottom: 30px;
+}
+
 section {
     padding: 28px 8%;
 }
